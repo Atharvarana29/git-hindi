@@ -1,1 +1,6 @@
 this is the first file
+
+now here you can write all your code for your project  
+like html code css code and all projects which can now be pushed to the github 
+and commit . the process will first be similar like write(written code here) then add then commit 
+add another file or folder to commit 
