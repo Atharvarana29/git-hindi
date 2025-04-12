@@ -8,5 +8,8 @@ here also the procedure will be same write (just the difference here is that : h
  
  then as usual you have to push this to git hub by git push 
 
+in this read me file you can also add code and texts and other format files,(try by yourself)
+which gets shown in automatically segerated form in the github
+
  here you can also match the git commit id if you wish  by git --oneline
  then refresh the github page and you can see it there and then only anybody can fork it and do all the stuffs
