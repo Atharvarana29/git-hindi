@@ -2,5 +2,18 @@ this is the first file
 
 now here you can write all your code for your project  
 like html code css code and all projects which can now be pushed to the github 
-and commit . the process will first be similar like write(written code here) then add then commit 
+and commit . the process will be same everytime when you do any new changes in your code file 
+. like if you have done what ever changes in your code file be it adding new or removing or editing an old code, then 
+first you have to add it then commit it then push it .[ like write(written code here) then add then commit ]
+
+
+now for the first time when pushing the code to git hub we need to set the upstream that 
+from on when ever i will be pushing the code from my main (vs code) (through git push command)then it 
+should automatically go to my (remote) origin location i.e to my git hub.
+And for this we can use git remote add upsteam <remote -url>   or
+ a shorthand code : git remote add -u <remote-url>
+also we can do it at the time of pushing your code to the remote repository 
+git push -u origin main
+ 
+
 add another file or folder to commit 
